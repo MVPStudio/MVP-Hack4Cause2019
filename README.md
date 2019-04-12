@@ -1,2 +1,3 @@
-# MVP-Hack4Cause2019
-MVP Studio involvement in the 2019 Hack4Cause in Eugene Oregon
+# MVP Studio at Hack4Cause 2019 in Eugene Oregon
+
+Thanks!
