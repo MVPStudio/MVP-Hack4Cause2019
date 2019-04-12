@@ -9,7 +9,7 @@ By providing google cloud hosting for [qualifying](repo-criteria.md) teams durin
 Post-hack, having all the credentials, API keys and configuration details with MVP Studio will help the civic orgs transition to the next step whatever that might be.
 
 ## Why do we do this?
-MVP Studio is mostly comprized of volunteers who have seen civic projects fail because they don't have continuity of service.  Often a technically capable volunteer will create an app for them and then move on.  When this happens the org suffers and it's trick and expensive to pick up the pieces.  Beyond the hack, MVP Studio is Eugene's only DevOps internship program.  We have a constant rotation of students providing care and feeding to these civic apps while they are learning high-demand job skills.
+MVP Studio is mostly comprized of volunteers who have seen civic projects fail because they don't have continuity of service.  Often a technically capable volunteer will create an app for an org and then move on.  When this happens the org suffers and it's tricky and expensive to pick up the pieces.  MVP Studio is Eugene's only DevOps internship program.  We have a constant rotation of students providing care and feeding to these civic apps while they are learning high-demand job skills.
 
-Thanks for stopping by and we hope to see you in person at the Hack! :tada:
+### Thanks for stopping by and we hope to see you in person at the Hack! :tada:
 
