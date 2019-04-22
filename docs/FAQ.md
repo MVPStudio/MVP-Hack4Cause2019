@@ -1,6 +1,6 @@
 # MVP Studio FAQ
 
-### What does the acrtonym MVP stand for?
+### What does the acronym MVP stand for?
 MVP is [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product) and it speak to the zone where we play a part:  Getting projects from demo to that first stage where it's useful for the civic org. We are not launching fully service products.
 
 ### Who owns the products you host?
