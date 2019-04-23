@@ -27,5 +27,5 @@ Right now all our fees go to cover hosting and the our paid inters that particip
 ### How much is a Sprint?
 Sprint fees vary from project to project but typically start at $10K.  We can help you form a team, provide structure, and pay the contributors for a 3-month sprint.  Team size and amount of work to do will drive the budget.
 
-### Can we rung out project thru multiple sprints?
+### Can we run our project thru multiple sprints?
 Sure.  At some point we'll chat about if your project is morphing into a product.  We don't have a product focus.
