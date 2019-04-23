@@ -29,3 +29,6 @@ Sprint fees vary from project to project but typically start at $10K.  We can he
 
 ### Can we run our project thru multiple sprints?
 Sure.  At some point we'll chat about if your project is morphing into a product.  We don't have a product focus.
+
+### What's the difference between a project and a product?
+Projects are specificially focused on the needs of a particular civic org.  Products are something you are building with the intention to sell.
